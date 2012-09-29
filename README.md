@@ -33,9 +33,9 @@ The website for the **YekKhabar News** Group
 * [**Farzaneh Raeissdati**](http://www.art20.ir) Graphic Designer
 
 ### Design Ideas
-* [****](http://demo.wpzoom.com/?theme=onplay)
-* [****](http://demo.wpzoom.com/?theme=telegraph)
-* [****](http://demo.wpzoom.com/?theme=tribune)
+* [**Idea1**](http://demo.wpzoom.com/?theme=onplay)
+* [**Idea2**](http://demo.wpzoom.com/?theme=telegraph)
+* [**Idea3**](http://demo.wpzoom.com/?theme=tribune)
 
 
 ### All rights reserved ###
