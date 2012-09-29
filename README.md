@@ -39,7 +39,7 @@ The website for the **YekKhabar News** Group
 
 
 ### All rights reserved ###
-Please note that News.com is a curated site and that we reserve the right to refuse any listing for any reason.
+Please note that YekKhabar.ir is a curated site and that we reserve the right to refuse any listing for any reason.
 
 The [YekKhabar.ir](http://YekKhabar.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
 
