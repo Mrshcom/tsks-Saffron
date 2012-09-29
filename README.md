@@ -32,6 +32,12 @@ The website for the **YekKhabar News** Group
 * [**Seyed Farhad Raeeso Sadati**](https://github.com/farhad-rs) Developer / Programmer / Data Gather
 * [**Farzaneh Raeissdati**](http://www.art20.ir) Graphic Designer
 
+### Design Ideas
+* [****](http://demo.wpzoom.com/?theme=onplay)
+* [****](http://demo.wpzoom.com/?theme=telegraph)
+* [****](http://demo.wpzoom.com/?theme=tribune)
+
+
 ### All rights reserved ###
 Please note that News.com is a curated site and that we reserve the right to refuse any listing for any reason.
 
