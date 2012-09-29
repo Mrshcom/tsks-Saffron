@@ -1,5 +1,5 @@
-## YekKhabar : 
-The website for the **YekKhabar News** Groups
+## YekKhabar : Daily News
+The website for the **YekKhabar News** Group
 
 
 ### Contributing
@@ -30,7 +30,7 @@ The website for the **YekKhabar News** Groups
 * [**Ali Mihandoost**](http://github.com/Alimd) Teacher & Technical Manager
 * [**Mohammad Reza Shariatzadeh**](https://github.com/Mrshcom) Project Manager / Developer 
 * [**Seyed Farhad Raeeso Sadati**](https://github.com/farhad-rs) Developer / Programmer / Data Gather
-* [**Farzaneh Raeissdati**](https://github.com/farhad-rs) Graphic Designer
+* [**Farzaneh Raeissdati**](http://www.art20.ir) Graphic Designer
 
 ### All rights reserved ###
 Please note that News.com is a curated site and that we reserve the right to refuse any listing for any reason.
