@@ -1,14 +1,14 @@
-## YekKhabar : Daily News
-The website for the **YekKhabar News** Group
+## SaharKhiz Saffron
+The website for the **SaharKhiz Saffron** Company
 
 
 ### Contributing
 
-* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/YekKhabar/issues)
+* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/SaharKhiz-Saffron/issues)
 
 * Clone this project and check source code
 ```
-    git clone https://github.com/1schools-projects/YekKhabar.git
+    git clone https://github.com/1schools-projects/SaharKhiz-Saffron.git
 ```
 
 * Fork this for your self and do some develope and pull request to us ;)
@@ -27,22 +27,17 @@ The website for the **YekKhabar News** Group
 
 
 ### The Team
-* [**Ali Mihandoost**](http://github.com/Alimd) Teacher & Technical Manager
+* [**Ali Mihandoost**](http://github.com/Alimd) Teacher / Technical Manager
 * [**Mohammad Reza Shariatzadeh**](https://github.com/Mrshcom) Project Manager / Developer 
 * [**Seyed Farhad Raeeso Sadati**](https://github.com/farhad-rs) Developer / Programmer / Data Gather
 * [**Farzaneh Raeissdati**](http://www.art20.ir) Graphic Designer
 
-### Design Ideas
-* [**Idea1**](http://demo.wpzoom.com/?theme=onplay)
-* [**Idea2**](http://demo.wpzoom.com/?theme=telegraph)
-* [**Idea3**](http://demo.wpzoom.com/?theme=tribune)
-
 
 ### All rights reserved ###
-Please note that YekKhabar.ir is a curated site and that we reserve the right to refuse any listing for any reason.
+Please note that SaharKhizSaffron.com is a curated site and that we reserve the right to refuse any listing for any reason.
 
-The [YekKhabar.ir](http://YekKhabar.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
+The [SaharKhizSaffron.com](http://SaharKhizSaffron.com) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
 
 
-Produced by 1schools students Group ( summer - fall 2012)
+Produced by 1schools Students Group ( Summer - Fall 2012)
 
