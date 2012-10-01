@@ -7,3 +7,16 @@ Description: Template For CIW [http://fdw.ir & http://mampel.ir].
 Version: 0.0.1
 */
 @charset "utf-8";
+
+body {
+	width:100%;
+	height:100%;
+	background-color:silver;	
+}
+
+div.container {
+	width:980px;	
+	min-height:500px;
+	margin:0px auto;
+	border:1px solid #C03;
+}
