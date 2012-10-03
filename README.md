@@ -1,5 +1,5 @@
-## SaharKhiz Saffron
-The website for the **SaharKhiz Saffron** Company
+## Saffron Talaye Sorkhe Khorasan
+The website for the **Talaye Sorkhe Khorasan Saffron** Company
 
 
 ### Contributing
@@ -36,7 +36,7 @@ The website for the **SaharKhiz Saffron** Company
 ### All rights reserved ###
 Please note that SaharKhizSaffron.com is a curated site and that we reserve the right to refuse any listing for any reason.
 
-The [SaharKhizSaffron.com](http://SaharKhizSaffron.com) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
+The [ztsk.ir](http://ztsk.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
 
 
 Produced by 1schools Students Group ( Summer - Fall 2012)
