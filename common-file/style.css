@@ -82,9 +82,9 @@ header div.logo {
 }
 
 header nav {
-	float:right;
-	width:700px;
+	width:auto;
 	margin-top:10px;	
+	margin-left:270px;
 }
 
 header nav menu li {
